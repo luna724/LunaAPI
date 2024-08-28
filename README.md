@@ -14,5 +14,5 @@
 forgegradle   2.1-SNAPSHOT
 ```
 
-## さんくす / Credits
+## Credits
 - [dxxxxy/1.8.9ForgeTemplate](https://github.com/dxxxxy/1.8.9ForgeTemplate)

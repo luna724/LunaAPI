@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lunaapi",
+  "name": "LunaAPI",
+  "description": "by me, for me. my Lib collection",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/luna724/lunaapi",
+  "updateUrl": "",
+  "authorList": ["luna724 (luna_)", "ExampleDude", "dxxxxy"],
+  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it. Thanks!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -27,11 +27,11 @@ public class LunaAPI {
         isWorldLoad = false;
     }
 
-    public boolean getIsWorldLoad() {
+    public synchronized boolean getIsWorldLoad() {
         return isWorldLoad;
     }
 
-    public boolean isWorldLoaded() {
+    public synchronized boolean isWorldLoaded() {
         return isWorldLoad;
     }
 }

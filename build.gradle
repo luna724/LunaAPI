@@ -14,7 +14,7 @@ plugins {
 
 apply plugin: "net.minecraftforge.gradle.forge"
 
-version = "1.0.0"  // バージョン Version
+version = "1.0.1"  // バージョン Version
 group = "iloveichika.luna724" //http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "LunaAPI" //name of the output jar
 
